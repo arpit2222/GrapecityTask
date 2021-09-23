@@ -1,0 +1,23 @@
+Test case for tip calculator
+
+
+1.	No field should be empty while submitting the form.
+2.	All fields should contain numerical values.
+3.	All fields should contain whole number no decimal number.
+4.	Minimum number of people should be 1.
+5.	Submit button should work properly
+6.	After submitting all fields should be empty
+7.	In case of success submit the alert should pop up
+8.	Record should be entered in the table
+9.	Recently calculated perPersonBill and perPersonTip should be shown
+10.	Table should contain all the previous records
+11.	When page is reloaded all the previous value should be present
+12.	Deleted button for each record should work properly
+13.	After deletion of any record popup should be there
+14.	Delete button should delete right value
+15.	When row is deleted area for recently calculated perPersonBill and perPersonTip values must be empty
+16.	Delete All button should work properly
+17.	Popup for deleting all values must be there
+18.	When Delete All is clicked area for recently calculated perPersonBill and perPersonTip values must be empty
+19.	When we refresh the page area for recently calculated perPersonBill and perPersonTip values must be empty
+20.	If there is no data and someone clicks the delete all popup should tell them to first add data.
